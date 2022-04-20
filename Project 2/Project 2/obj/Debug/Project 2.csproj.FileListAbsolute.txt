@@ -1,0 +1,14 @@
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormLogin.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormHome.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormInputData.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormCekData.resources
